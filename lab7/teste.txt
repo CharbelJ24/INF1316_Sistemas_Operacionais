@@ -1,0 +1,3 @@
+Linha 1: este arquivo foi lido com mmap.
+Linha 2: nenhuma chamada a read() foi feita.
+Linha 3: o conteudo foi acessado como um vetor p[len].
